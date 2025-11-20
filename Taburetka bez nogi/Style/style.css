@@ -1,0 +1,47 @@
+/* Сброс */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+/* Шапка */
+.headerBlock {
+    width: 100%;
+    background: linear-gradient(90deg, #4a4df0, #6a99ff);
+    padding: 15px 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Навигация */
+.navBar {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.logo {
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.menu {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+/* Аватар */
+.avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: white;
+    object-fit: cover;
+    border: 2px solid rgba(255,255,255,0.7);
+    box-shadow: 0 0 8px rgba(255,255,255,0.4);
+}
