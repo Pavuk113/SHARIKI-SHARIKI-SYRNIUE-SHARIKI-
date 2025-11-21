@@ -1,0 +1,90 @@
+{
+  "KZ": [
+    {
+      "title": "ХАХАХА СМЕШНОЙ КОТ",
+      "description": "BRUH.",
+      "image": "https://i.pinimg.com/736x/b4/bb/b2/b4bbb2198b036fe1024571ec6b60f8b8.jpg",
+      "link": "https://youtu.be/18iKpPVMba4?si=wrvrjB8DG4dWOkhV"
+    },
+    {
+      "title": "Важная Информация!",
+      "description": "Тюлень",
+      "image": "https://www.meme-arsenal.com/memes/39805130a1f472c1cd7ed326110055cc.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Бл** что это",
+      "description": "ХАХА Я ПОД ТРАВОЙ!",
+      "image": "https://i.ytimg.com/vi/fWu48W9ntXY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlfYhXadCgHarAxXzxRe_Vp45rpQ",
+      "link": "#"
+    },
+    {
+      "title": "AAAAAAAA",
+      "description": "Fl studio WHAAAT?",
+      "image": "https://i.ytimg.com/vi/o1YHSvSeA0k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_Azx5IfWR54ZJTTPsvZFnX6F8Jg",
+      "link": "#"
+    },
+    {
+      "title": "Новый IT-хаб в Астане",
+      "description": "В столице Казахстана открылся инновационный центр для стартапов и молодых разработчиков.",
+      "image": "img/it-hub.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Развитие 5G в Казахстане",
+      "description": "Пилотная зона покрытия 5G запущена в Алматы. Скорость интернета выросла в 10 раз.",
+      "image": "img/5g.jpg",
+      "link": "#"
+    }
+    
+    
+  ],
+  
+  "RU": [
+    {
+      "title": "Новые инвестиции в образование",
+      "description": "В России создаются новые техно-классы в школах. Упор — на робототехнику и программирование.",
+      "image": "img/education.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Запуск крупнейшего дата-центра",
+      "description": "В Москве открылся новый дата-центр на 20 000 серверов.",
+      "image": "img/datacenter.jpg",
+      "link": "#"
+    }
+  ],
+
+  "UA": [
+    {
+      "title": "Развитие IT-кластеров",
+      "description": "В Украине продолжают расти IT-компании, создавая новые рабочие места.",
+      "image": "img/ukraine-it.jpg",
+      "link": "#"
+    }
+  ],
+
+  "US": [
+    {
+      "title": "Tesla представила новое обновление",
+      "description": "Компания расширила возможности автопилота и снизила расход энергии.",
+      "image": "img/tesla.jpg",
+      "link": "#"
+    }
+  ],
+
+  "DEFAULT": [
+    {
+      "title": "Новости технологий со всего мира",
+      "description": "Подборка самых интересных IT-событий за эту неделю.",
+      "image": "img/global.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Искусственный интеллект покоряет мир",
+      "description": "ИИ становится основным драйвером технологических инноваций.",
+      "image": "img/ai.jpg",
+      "link": "#"
+    }
+  ]
+}
