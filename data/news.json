@@ -1,0 +1,126 @@
+{
+  "KZ": [
+    {
+      "title": "ХАХАХА СМЕШНОЙ КОТ",
+      "description": "BRUH.",
+      "image": "https://i.pinimg.com/736x/b4/bb/b2/b4bbb2198b036fe1024571ec6b60f8b8.jpg",
+      "link": "https://youtu.be/18iKpPVMba4?si=wrvrjB8DG4dWOkhV"
+    },
+    {
+      "title": "Важная Информация!",
+      "description": "Тюлень",
+      "image": "https://www.meme-arsenal.com/memes/39805130a1f472c1cd7ed326110055cc.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Бл** что это",
+      "description": "ХАХА Я ПОД ТРАВОЙ!",
+      "image": "https://i.ytimg.com/vi/fWu48W9ntXY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlfYhXadCgHarAxXzxRe_Vp45rpQ",
+      "link": "#"
+    },
+    {
+      "title": "AAAAAAAA",
+      "description": "Fl studio WHAAAT?",
+      "image": "https://i.ytimg.com/vi/o1YHSvSeA0k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_Azx5IfWR54ZJTTPsvZFnX6F8Jg",
+      "link": "#"
+    }
+    
+    
+  ],
+
+  "RU": [
+    {
+      "title": "ХАХАХА СМЕШНОЙ КОТ",
+      "description": "BRUH.",
+      "image": "https://i.pinimg.com/736x/b4/bb/b2/b4bbb2198b036fe1024571ec6b60f8b8.jpg",
+      "link": "https://youtu.be/18iKpPVMba4?si=wrvrjB8DG4dWOkhV"
+    },
+    {
+      "title": "Важная Информация!",
+      "description": "Тюлень",
+      "image": "https://www.meme-arsenal.com/memes/39805130a1f472c1cd7ed326110055cc.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Бл** что это",
+      "description": "ХАХА Я ПОД ТРАВОЙ!",
+      "image": "https://i.ytimg.com/vi/fWu48W9ntXY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlfYhXadCgHarAxXzxRe_Vp45rpQ",
+      "link": "#"
+    },
+    {
+      "title": "AAAAAAAA",
+      "description": "Fl studio WHAAAT?",
+      "image": "https://i.ytimg.com/vi/o1YHSvSeA0k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_Azx5IfWR54ZJTTPsvZFnX6F8Jg",
+      "link": "#"
+    }
+
+
+  ],
+
+  "UA": [
+    {
+      "title": "ХАХАХА СМЕШНОЙ КОТ",
+      "description": "BRUH.",
+      "image": "https://i.pinimg.com/736x/b4/bb/b2/b4bbb2198b036fe1024571ec6b60f8b8.jpg",
+      "link": "https://youtu.be/18iKpPVMba4?si=wrvrjB8DG4dWOkhV"
+    },
+    {
+      "title": "Важная Информация!",
+      "description": "Тюлень",
+      "image": "https://www.meme-arsenal.com/memes/39805130a1f472c1cd7ed326110055cc.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Бл** что это",
+      "description": "ХАХА Я ПОД ТРАВОЙ!",
+      "image": "https://i.ytimg.com/vi/fWu48W9ntXY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlfYhXadCgHarAxXzxRe_Vp45rpQ",
+      "link": "#"
+    },
+    {
+      "title": "AAAAAAAA",
+      "description": "Fl studio WHAAAT?",
+      "image": "https://i.ytimg.com/vi/o1YHSvSeA0k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_Azx5IfWR54ZJTTPsvZFnX6F8Jg",
+      "link": "#"
+    }
+
+
+  ],
+
+  "US": [
+    {
+      "title": "Tesla представила новое обновление",
+      "description": "Компания расширила возможности автопилота и снизила расход энергии.",
+      "image": "img/tesla.jpg",
+      "link": "#"
+    }
+  ],
+
+  "DEFAULT": [
+    {
+      "title": "ХАХАХА СМЕШНОЙ КОТ",
+      "description": "BRUH.",
+      "image": "https://i.pinimg.com/736x/b4/bb/b2/b4bbb2198b036fe1024571ec6b60f8b8.jpg",
+      "link": "https://youtu.be/18iKpPVMba4?si=wrvrjB8DG4dWOkhV"
+    },
+    {
+      "title": "Важная Информация!",
+      "description": "Тюлень",
+      "image": "https://www.meme-arsenal.com/memes/39805130a1f472c1cd7ed326110055cc.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Бл** что это",
+      "description": "ХАХА Я ПОД ТРАВОЙ!",
+      "image": "https://i.ytimg.com/vi/fWu48W9ntXY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlfYhXadCgHarAxXzxRe_Vp45rpQ",
+      "link": "#"
+    },
+    {
+      "title": "AAAAAAAA",
+      "description": "Fl studio WHAAAT?",
+      "image": "https://i.ytimg.com/vi/o1YHSvSeA0k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_Azx5IfWR54ZJTTPsvZFnX6F8Jg",
+      "link": "#"
+    }
+
+
+  ]
+}
